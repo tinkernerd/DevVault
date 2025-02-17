@@ -2,7 +2,7 @@
 title: Technical Notes
 banner: https://media.tinkernerd.dev/banners/code.jpg
 created_at: 2024-01-30T11:38:56+05:30
-modified_at: 2025-02-16T20:33:28-05:00
+modified_at: 2025-02-16T21:03:29-05:00
 tags:
   - homepage
   - followup
@@ -10,6 +10,7 @@ banner_y: 0.446
 banner-display: cover
 ---
 # Categories
+- [[Quote Book]]
 ## Technical Notes Dashboard  
 - [[3d Printing]]  #mcl/list-column
 - [[Docker]]

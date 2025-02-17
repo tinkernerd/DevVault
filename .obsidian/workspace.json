@@ -16,14 +16,29 @@
               "state": {
                 "file": "🏠 Homepage.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "🏠 Homepage"
             }
+          },
+          {
+            "id": "2e073d1cd6f015a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Quote Book.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quote Book"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🏠 Homepage.md",
+                "file": "Notes/Quote Book.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +139,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 🏠 Homepage"
+              "title": "Graph of Quote Book"
             }
           },
           {
@@ -197,10 +212,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "🏠 Homepage.md"
+                "file": "Notes/Quote Book.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 🏠 Homepage"
+              "title": "File properties for Quote Book"
             }
           },
           {
@@ -266,8 +281,9 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2e073d1cd6f015a1",
   "lastOpenFiles": [
+    "Notes/Quote Book.md",
     "🏠 Homepage.md",
     "LICENSE.md",
     "Notes/Networking Resources.md",
@@ -294,7 +310,6 @@
     "Notes/Aviation/Stalls.md",
     "Notes/Aviation/Change of Scenery.md",
     "Notes/Scripture/46 - 1 Corinthians/1Cor 15.md",
-    "Notes/Bible/C&S ABF 2-16.md",
     "Excalidraw",
     "Assets/Attachments/FAA_Order_6850.2C.pdf",
     "Notes/Aviation/Glossary",
