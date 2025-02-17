@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bb094c78ae56e501",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
@@ -16,7 +16,7 @@
               "state": {
                 "file": "🏠 Homepage.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
@@ -261,19 +261,15 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "homepage:Open homepage": false,
-      "obsidian-projects:Open projects": false,
-      "periodic-notes:Open today": false,
       "obsidian-trash-explorer:Open trash explorer": false,
       "obsidian-git:Open Git source control": false,
-      "yet-another-obsidian-synchronizer:YAOS": false,
-      "recipe-grabber:Recipe Grabber": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "edc2ec343b41aae3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "LICENSE.md",
     "🏠 Homepage.md",
+    "LICENSE.md",
     "Notes/Networking Resources.md",
     "Technical Notes.md",
     "Development.md",
